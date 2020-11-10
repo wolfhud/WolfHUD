@@ -1,5 +1,11 @@
 # WolfHUD
 
+## Reason for fork
+First off, I'd like to thank [Kamikaze94](https://github.com/Kamikaze94/WolfHUD/archive/master.zip) for the original WolfHUD.
+Without his work, this mod would not have been possible.
+
+The reason for this fork is due to multiple outstanding PRs that were not being merged. The project was essentially abandonded and hence a fork was required.
+
 ## Description
 
 This is a Mod collection of several useful HUD altering mods.
