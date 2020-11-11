@@ -212,7 +212,8 @@ function WolfHUDTweakData:init()
 		[ "ecp_male" ] 							= { default = "menu_ecp_male" },
 		[ "ecp_female" ] 						= { default = "menu_ecp_female" },
 		[ "joy" ] 								= { default = "menu_joy" },
-		
+		[ "security_mex_no_pager" ] 								= { default = "wolfhud_enemy_mex_no_pager" },
+
 		--Restoration Overhaul Enemies
 		["boom"] 								= { default = "wolfhud_enemy_boom" },
 		["omnia_lpf"] 							= { default = "wolfhud_enemy_omnia_lpf" },
