@@ -1000,5 +1000,6 @@
 	"wolfhud_skipit_options_name" : "Opções de pulo",
 	"wolfhud_skipit_options_help" : "Opções para pular menus desnecessários automaticamente e poupar seu tempo.",
 	"wolfhud_assaultbanner_options_name" : "Opções do Assault Banner",
-"wolfhud_assaultbanner_options_help" : "Opções para mudar o Assault Banner."
+	"wolfhud_assaultbanner_options_help" : "Opções para mudar o Assault Banner."
+	"wolfhud_enemy_mex_no_pager" : "Buluc's guard",
 }
