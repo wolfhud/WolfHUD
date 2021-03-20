@@ -6,6 +6,8 @@ Without his work, this mod would not have been possible.
 
 The reason for this fork is due to multiple outstanding PRs that were not being merged. The project was essentially abandonded and hence a fork was required.
 
+Despite Kamikaze 94 fixing up WolfHUD recently it's taking a long time to get pull requests merged, hence the fork.
+
 ## Description
 
 This is a Mod collection of several useful HUD altering mods.
