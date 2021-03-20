@@ -1,5 +1,7 @@
 # WolfHUD v3.3
 
+### Fix endpoints
+
 ###
 - Fixed escort NPC name in "Breakfast in Tijuana"
 - Add a bunch of custom heists to RichPresence
