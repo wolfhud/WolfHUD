@@ -1,5 +1,8 @@
 # WolfHUD v3.3
 
+###
+- Fixed escort NPC name in "Breakfast in Tijuana"
+- Add a bunch of custom heists to RichPresence
 
 ### Changelog Bugfix 2:
 - HUDList:
@@ -16,7 +19,7 @@
 	- Added Alltime kills (_by LivacoNew_)
 
 ### Changelog:
-- PrePlanManager: 
+- PrePlanManager:
 	- Fixed PrePlanManager crash (issue #XXX & PR #XXX)
 - EnemyHealthbar & HUDList
 	- Added new unit definitions
@@ -39,18 +42,18 @@
 	- Added Dutch translation (_by Azoraqua_)
 	- Updated Russian translation (_by chromKa_)
 	- Updated Spanish translation (_by ElReyZero1201 _)
-- MenuTweaks: 
+- MenuTweaks:
 	- Fixed crash on right click
-- RichPresence: 
+- RichPresence:
 	- Added new Holdout maps
-- ContractHeat: 
+- ContractHeat:
 	- Hide heat percent in holdout mode
 
 ### Changelog:
 - General:
 	- Added Federal Inventory to new autoupdate system
 	- Added notification if autoupdates will not work
-- HUDList: 
+- HUDList:
 	- Added option for all times in secods (Thanks to FraudBatman, PR #420)
 - EnemyHealthbar & HUDList
 	- Added crackdown unit definitions (Thanks to VxWolf, PR #676)
@@ -68,13 +71,13 @@
 - General:
 	- Updated README with new info on autoupdates
 	- Fixed encoding of file mod.txt
-- LoadoutPanel: 
+- LoadoutPanel:
 	- Fixed wrong weapon skin icons
 
 ### Changelog Bugfix 2:
 __Note:__
-  
-    For updates via the Downloadmanager: 
+
+    For updates via the Downloadmanager:
 	- The WolfHUD insatll folder must be named 'WolfHUD-master'
 	- The WolfHUD install folder cannot contain any files or folder names starting with a dot.
 
@@ -84,7 +87,7 @@ __Note:__
 ### Changelog Bugfix 1:
 
 __Note:__
-  
+
     - 'WolfHUDTweakData.lua' got updated this release.
 	- If you use a customized one, please make sure, you update it.
 
@@ -112,9 +115,9 @@ __Note:__
 # WolfHUD v3.0
 
 __Note:__
-  
-    - This lists most changes since the last pushed update on paydaymods.com . 
-    - No guarantees of this list being a complete rundown of changes. 
+
+    - This lists most changes since the last pushed update on paydaymods.com .
+    - No guarantees of this list being a complete rundown of changes.
     - (Pretty sure quite some, mainly fixes, are missing here...sorry :S)
 ---
 ### Changelog:
@@ -257,6 +260,6 @@ __Note:__
     - Added saving of lobby settings. (_Made by BangL and me_)
 
 ---
-  
-  
+
+
 ### Changelogs of the previous Versions are available [here](http://paydaymods.com/mods/patchnotes/298/).
